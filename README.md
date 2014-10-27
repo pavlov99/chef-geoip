@@ -1,7 +1,7 @@
 DESCRIPTION
 ====
 
-Installs GeoIP database and lookup executables.
+Installs GeoIP database and lookup executables. It is update of original repo fork. Pull request is not accepted or rejected for 2 years as of now. So, new repository started based on existing code.
 
 REQUIREMENTS
 ====
@@ -17,7 +17,9 @@ LICENSE AND AUTHOR
 ====
 
 Author:: Robby Grossman (<robby@freerobby.com>)
+
 Author:: Craig McEldowney (https://github.com/craigmc)
+
 Author:: Kirill Pavlov (https://github.com/pavlov99)
 
 Copyright:: 2012, Robby Grossman
