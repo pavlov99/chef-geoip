@@ -1,5 +1,5 @@
-maintainer       "Robby Grossman"
-maintainer_email "robby@freerobby.com"
+maintainer       "Kirill Pavlov"
+maintainer_email "kirill.pavlov@phystech.edu"
 license          "MIT"
 description      "Installs MaxMind GeoIP  binaries and databases"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
