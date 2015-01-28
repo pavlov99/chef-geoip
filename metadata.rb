@@ -1,3 +1,4 @@
+name             "geoip"
 maintainer       "Kirill Pavlov"
 maintainer_email "kirill.pavlov@phystech.edu"
 license          "MIT"
